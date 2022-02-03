@@ -1,0 +1,17 @@
+* {
+  font-family: Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.container {
+  border: 0.5rem solid;
+  padding: 0.5rem;
+}
+
+.italic {
+  font-style:italic;
+  padding: 0.5rem;
+}
